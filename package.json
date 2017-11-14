@@ -1,0 +1,27 @@
+{
+  "name": "rest-api-web",
+  "version": "1.0.0",
+  "description": "A web ui for rest-api",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tracyjhusky/rest-api-web.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "reddit"
+  ],
+  "author": "James Tracy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tracyjhusky/rest-api-web/issues"
+  },
+  "homepage": "https://github.com/tracyjhusky/rest-api-web#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
